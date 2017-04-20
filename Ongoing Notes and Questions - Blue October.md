@@ -24,7 +24,8 @@
 			 - Will most likely be located on outside walls... surrounding 'hang out' area.
 		 - location of Laundry/Utility room will remain
 		 - additional storage along corridor near back entrance. 
-			 - 
+		 - 1 small restroom with toilet and pedestal sink
+			 
 	 - General
 		 - Existing ACT grid will most likely remain.
 		 - Try to use the existing plumbing locations as much as possible
